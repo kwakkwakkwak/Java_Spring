@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Test3:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73436535-10c2-48f8-81d3-6b723e57a843" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-core-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-test-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-web-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-webmvc-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-webmvc-portlet-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-websocket-4.3.10.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part1/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part1/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part1/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part10/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part2/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part2/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part2/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part3/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part4/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part5/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part6/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/QnABoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part7/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/QnABoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part8/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/BoardCafe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/FreeBoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/MainApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/QnABoardWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/part9/Write.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Test3_javaEEApplication_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Test3_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Test3_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/application.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part1/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part1/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part1/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part10/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part2/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part2/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part2/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part3/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part4/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part5/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part6/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/QnABoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part7/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/QnABoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part8/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/BoardCafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/FreeBoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/MainApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/QnABoardWrite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/part9/Write.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/context9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/WEB-INF/classes/context4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Test/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/context9.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Test3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BoardCafe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part9/BoardCafe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part9/Factory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part9/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="context10.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context10.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreeBoardWrite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/FreeBoardWrite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/Factory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardCafe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/BoardCafe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Write.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/Write.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/part10/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Write" />
+        <option value="$PROJECT_DIR$/src/main/java/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/context4.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part1/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part1/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part1/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part2/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part2/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/FreeBoardWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part4/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part3/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part4/Board.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context4.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part4/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part5/Write.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part5/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context5.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part5/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part6/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part6/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context6.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part6/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part7/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part7/QnABoardWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context7.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part7/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part7/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part8/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context8.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part8/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context9.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part9/QnABoardWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part9/FreeBoardWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part9/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part9/BoardCafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part9/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/context10.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/part10/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part10/FreeBoardWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/part10/MainApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Test3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="26" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6425287" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/part10" />
+      <recent name="$PROJECT_DIR$/src/main/resources/spring" />
+      <recent name="$PROJECT_DIR$/src/main/java/part9" />
+      <recent name="$PROJECT_DIR$/src/main/java/part8" />
+      <recent name="$PROJECT_DIR$/src/main/java/part7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/spring" />
+      <recent name="$PROJECT_DIR$/src/main/java/part1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainApp (2)">
+    <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="part9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="part9.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test3" />
+      <envs />
+    </configuration>
+    <configuration name="MainApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="part10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="part10.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test3" />
+      <envs />
+    </configuration>
+    <configuration name="MainApp (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="part6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="part6.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test3" />
+      <envs />
+    </configuration>
+    <configuration name="MainApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="part7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="part7.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test3" />
+      <envs />
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="part8.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Test3" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainApp (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainApp (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainApp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainApp (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MainApp (2)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainApp (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainApp (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainApp (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MainApp (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73436535-10c2-48f8-81d3-6b723e57a843" name="Default" comment="" />
+      <created>1506597685163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506597685163</updated>
+      <workItem from="1506597686321" duration="5957000" />
+      <workItem from="1506750279822" duration="3817000" />
+      <workItem from="1506823240520" duration="4242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.7633588" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25679544" sideWeight="0.23664123" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25679544" sideWeight="0.50763357" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/META-INF/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part4/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part4/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part5/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#235#236#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context6.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part6/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/QnABoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part7/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/QnABoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context7.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context8.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part8/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context9.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/QnABoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part9/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/BoardCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/Write.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/FreeBoardWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/context10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part10/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Test3:javaEEApplication exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6425287" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Test3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40114942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-aop:4.0.7.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6425287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
