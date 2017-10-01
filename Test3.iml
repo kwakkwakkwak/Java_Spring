@@ -21,6 +21,7 @@
           <file>file://$MODULE_DIR$/src/main/resources/spring/context8.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/spring/context9.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/spring/context10.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/test.xml</file>
         </fileset>
       </configuration>
     </facet>
